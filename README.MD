@@ -4,5 +4,5 @@ Here are the version details
 	IDE: Visual Studio 2015 (MSBuild files)
         Microsoft.AspNet.Mvc version="5.2.3" 
 	targetFramework="net461" />
-This is to test github webhook
+This is to test github webhook used in jenkins integrations and settings tab
 
